@@ -1,4 +1,6 @@
 # PassTools
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-ruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-ruby?ref=badge_shield)
+
 
 * Simple ruby wrapper for the PassTools API. 
 * API documentation can be found at the main [PassTools API wiki](https://github.com/tello/passtools-api/wiki/Methods)
@@ -188,3 +190,7 @@ pass.create
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-ruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-ruby?ref=badge_large)
